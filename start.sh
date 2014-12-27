@@ -1,0 +1,1 @@
+qemu -fda disk.img -boot a
